@@ -1,0 +1,10 @@
+{
+  "name": "card_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Malcolm Lowery",
+  "license": "ISC"
+}
